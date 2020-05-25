@@ -7,7 +7,7 @@ You can buy the hardware from https://www.tindie.com/products/tleracorp/grasshop
 ************************************
 ![Grasshopper Lora Pinout](https://github.com/aklein24/grasshopper_lora_sensors/blob/master/grasshopper_pinout.jpg)
 ************************************
-https://github.com/aklein24/grasshopper_lora_sensors/blob/master/STM32L0%20power%20modes.jpg
+![STM32l0 power modes](https://github.com/aklein24/grasshopper_lora_sensors/blob/master/STM32L0%20power%20modes.jpg)
 
 ************************************
 Copyright 2020 Andrew Klein
