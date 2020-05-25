@@ -4,6 +4,8 @@ Andrew's grasshopper LoRa sensor project. Credit to https://github.com/kriswiner
 
 You can buy the hardware from https://www.tindie.com/products/tleracorp/grasshopper-loralorawan-development-board/
 
+![Grasshopper Lora Pinout](https://github.com/aklein24/grasshopper_lora_sensors/blob/master/grasshopper_pinout.jpg)
+
 ************************************
 Copyright 2020 Andrew Klein
 
